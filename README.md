@@ -1,3 +1,7 @@
+# Added support for flink 1.2-SNAPSHOT
+
+This is forked from lastest zeppeling 0.7 SNAPSHOT for flink 1.2-SNAPSHOT, Clone Branch [shashank734-1.2-snapshot-flink](https://github.com/shashank734/zeppelin/tree/shashank734-1.2-snapshot-flink) and build from source as discribed in zeppelin [docs](https://zeppelin.apache.org/docs/0.7.0-SNAPSHOT/install/build.html)
+
 # Apache Zeppelin
 
 **Documentation:** [User Guide](http://zeppelin.apache.org/docs/latest/index.html)<br/>
